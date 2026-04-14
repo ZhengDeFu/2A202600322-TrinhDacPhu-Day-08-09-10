@@ -7,3 +7,15 @@ day08/lab/data/grading_questions.json
 .env
 day08/lab/__pycache__/
 day08/lab/chroma_db/
+=======
+day09/lab/data/grading_questions.json
+day10/lab/data/grading_questions.json
+
+__/__/chroma_db/
+__/__/__pycache__/
+day09/lab/__pycache__/
+day10/lab/__pycache__/
+day09/lab/chroma_db/
+day10/lab/chroma_db/
+day09/lab/artifacts/traces
+day09/lab/workers/__pycache__/
